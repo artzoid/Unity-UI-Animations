@@ -71,7 +71,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: dabb18bbcd22d6346abff7113170f180, type: 2}
+  m_Motion: {fileID: 7400000, guid: 63ea9bb8dad6a2145bed97942aaeb57b, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -83,7 +83,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Menu Frame
+  m_Name: Class Menu Frame
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: IsOpen
@@ -126,7 +126,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: dbaf6553a44db0744906f28dfe920a52, type: 2}
+  m_Motion: {fileID: 7400000, guid: 4900b95ac93ee724088a8f14fb614eb2, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -153,7 +153,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 13c505913fd30e14a9dc0faf612d71a7, type: 2}
+  m_Motion: {fileID: 7400000, guid: a6aa04df6715b034f85d8adc19c9722f, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -261,7 +261,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: a3d7750550b020d4bb3a0f7327fe15bc, type: 2}
+  m_Motion: {fileID: 7400000, guid: c6651c893520bed438eb0f0a1e8ae435, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
