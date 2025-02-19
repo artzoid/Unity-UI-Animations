@@ -1261,7 +1261,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967040
+    rgba: 4291602950
   m_fontColor: {r: 0, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -2007,9 +2007,9 @@ RectTransform:
   - {fileID: 1536181949}
   m_Father: {fileID: 95098309}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 1}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -70, y: -140}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 1030, y: 240}
   m_SizeDelta: {x: 460, y: 460}
   m_Pivot: {x: 1, y: 1}
 --- !u!222 &741985189
@@ -2176,7 +2176,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 741985188}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2934,7 +2934,7 @@ GameObject:
   - component: {fileID: 1536181951}
   - component: {fileID: 1536181950}
   m_Layer: 5
-  m_Name: Item Descroption
+  m_Name: Item Description
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2979,8 +2979,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Use to stab enemy. Or to loose\tighten screws with a little minus sign
-    on them.
+  m_text: 'Use to stab enemy.
+
+    Or to loosen or tighten screws with a little minus
+    sign on them.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8830b341829f4ed4eadcb225d2eff6e0, type: 2}
   m_sharedMaterial: {fileID: -6413122857273486061, guid: 8830b341829f4ed4eadcb225d2eff6e0, type: 2}
@@ -3776,7 +3778,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1582596734}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
