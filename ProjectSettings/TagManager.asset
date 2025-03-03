@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Cursor
   - 
   - 
   - 
@@ -46,6 +46,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 3878971497
+    locked: 0
+  - name: Cursor
+    uniqueID: 1822827319
     locked: 0
   m_RenderingLayers:
   - Default
